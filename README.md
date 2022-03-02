@@ -13,6 +13,8 @@
 
 # Amazon Web Services (AWS)
 
+![2-tier-arch](images/2%20Tier%20Architecture%20Diagram.png)
+
 ## AWS and Cloud Computing
 
 - We are using Europe
@@ -322,3 +324,6 @@ Data Security:
 - On cloud
 
 Good example: End-to-end encryption in Whatsapp was introduced after someone stole messages in transit and Whatsapp was fined heavily. 
+
+### With Terraform
+![with_terraform](images/Terraform_AWS.png)
